@@ -1,12 +1,62 @@
 [
-  { "code": "P001", "name": "Refrigerante Lata", "price": 9 },
-  { "code": "P002", "name": "Chocolate Barra", "price": 20 },
-  { "code": "P003", "name": "Suco de Laranja", "price": 12 },
-  { "code": "P004", "name": "Salgadinho", "price": 8 },
-  { "code": "P005", "name": "Água Mineral", "price": 5 },
-  { "code": "P006", "name": "Biscoito Recheado", "price": 7 },
-  { "code": "P007", "name": "Sanduíche Natural", "price": 15 },
-  { "code": "P008", "name": "Café Pequeno", "price": 6 },
-  { "code": "P009", "name": "Pão de Queijo", "price": 10 },
-  { "code": "P010", "name": "Chá Gelado", "price": 11 }
+  {
+    "code": "P001",
+    "name": "Refrigerante Lata",
+    "price": 9,
+    "image": "https://prezunic.vtexassets.com/arquivos/ids/210693/66db573a62edc14e790f8550.jpg?v=638612475473130000"
+  },
+  {
+    "code": "P002",
+    "name": "Chocolate Barra",
+    "price": 20,
+    "image": "https://cdn.awsli.com.br/1030/1030675/produto/228668365db8de6662a.jpg"
+  },
+  {
+    "code": "P003",
+    "name": "Suco de Laranja",
+    "price": 12,
+    "image": "https://img.megaboxatacado.com.br/produto/1000X1000/201874_29238.jpg"
+  },
+  {
+    "code": "P004",
+    "name": "Salgadinho",
+    "price": 8,
+    "image": "https://muffatosupermercados.vtexassets.com/arquivos/ids/390045/7892840823245_1.jpg?v=638574224724100000"
+  },
+  {
+    "code": "P005",
+    "name": "Água Mineral",
+    "price": 5,
+    "image": "https://carrefourbrfood.vtexassets.com/arquivos/ids/18904684/agua-mineral-sem-gas-crystal-500ml-1.jpg"
+  },
+  {
+    "code": "P006",
+    "name": "Biscoito Recheado",
+    "price": 7,
+    "image": "https://img.megaboxatacado.com.br/produto/1000X1000/20181128_45394.jpg"
+  },
+  {
+    "code": "P007",
+    "name": "Sanduíche Natural",
+    "price": 15,
+    "image": "https://specialepaes.com/wp-content/uploads/2020/02/sanduiche-integral.jpg"
+  },
+  {
+    "code": "P008",
+    "name": "Café Pequeno",
+    "price": 6,
+    "image": "https://m.media-amazon.com/images/I/71TRJxfJFcL.jpg"
+  },
+  {
+    "code": "P009",
+    "name": "Pão de Queijo",
+    "price": 10,
+    "image": "https://www.academiaassai.com.br/sites/default/files/como-fazer-pao-de-queijo_easy-resize.com_.jpg"
+  },
+  {
+    "code": "P010",
+    "name": "Chá Gelado",
+    "price": 11,
+    "image": "https://andinacocacola.vtexassets.com/arquivos/ids/157764/113716_COCA---IceTeaLimaoComGas290ml.jpg"
+  }
 ]

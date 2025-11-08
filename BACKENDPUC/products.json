@@ -1,0 +1,12 @@
+{
+  "P001": { "code": "P001", "name": "Refrigerante Lata", "price": 9 },
+  "P002": { "code": "P002", "name": "Chocolate Barra", "price": 20 },
+  "P003": { "code": "P003", "name": "Suco de Laranja", "price": 12 },
+  "P004": { "code": "P004", "name": "Salgadinho", "price": 8 },
+  "P005": { "code": "P005", "name": "Água Mineral", "price": 5 },
+  "P006": { "code": "P006", "name": "Biscoito Recheado", "price": 7 },
+  "P007": { "code": "P007", "name": "Sanduíche Natural", "price": 15 },
+  "P008": { "code": "P008", "name": "Café Pequeno", "price": 6 },
+  "P009": { "code": "P009", "name": "Pão de Queijo", "price": 10 },
+  "P010": { "code": "P010", "name": "Chá Gelado", "price": 11 }
+}

@@ -64,8 +64,13 @@ class Product
             throw new RuntimeException("Erro ao decodificar JSON: $path");
         }
 
-        return array_map(function ($item) {
-            return Product::fromArray($item);
-        }, $data);
+        $products = [];
+
+        foreach ($data as $item) {
+            $product = Product::fromArray($item);
+            $products[$product->getCode()] = $product;
+        }
+
+        return $products;
     }
 }
